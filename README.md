@@ -15,8 +15,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 The easiest way to install the project requirements is to create a virtual environment, clone the repo, and install the requirements.txt file. 
 
-'''python
-conda create -n yourenvname python=3.6 anaconda
-source activate yourenvname
-pip install -r requirements.txt
-'''
+- conda create -n yourenvname python=3.6 anaconda
+- source activate yourenvname
+- pip install -r requirements.txt
