@@ -2,7 +2,7 @@
 autocorrect == 0.3.0
 matplotlib == 3.0.2
 nltk == 3.4
-numpy == 1.16.3
+numpy == 1.22.0
 pandas == 0.23.4
 pyLDAvis == 2.1.2
 scikit_learn == 0.20.1
